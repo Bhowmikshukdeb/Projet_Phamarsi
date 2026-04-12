@@ -9,7 +9,7 @@
  
 PharmaSI est une application de bureau développée en **C# (.NET Framework 4.7.2)** qui permet la gestion des activités d'une entreprise pharmaceutique. Elle couvre la gestion des visiteurs médicaux, des praticiens, des produits et des rapports de visite.
  
-Ce projet a été réalisé en équipe dans le cadre du **BTS Services Informatiques aux Organisations, option SLAM (Solutions Logicielles et Applications Métiers)**, en réponse à un cahier des charges client simulé.
+Ce projet a été réalisé **en équipe durant la 2ème année de BTS SIO option SLAM**, dans le cadre du **projet fil rouge** simulant un contexte professionnel réel. Il constitue une des réalisations présentées à l'**épreuve E6**.
  
 ---
  
@@ -177,12 +177,12 @@ Appuyer sur `F5` dans Visual Studio pour compiler et exécuter.
  
 ## 👨‍💻 Auteur
  
-**Shukdeb**  
-Étudiant BTS SIO option SLAM — 2ème année  
+**Shukdeb** & équipe  
+Étudiants BTS SIO option SLAM — 2ème année  
 Île-de-France, France
  
 ---
  
 ## 📄 Contexte scolaire
  
-> Ce projet a été développé dans le cadre du **BTS SIO (Services Informatiques aux Organisations), option SLAM**, en réponse à un projet fil rouge simulant un contexte professionnel réel. Il sera présenté lors de l'**épreuve E6** qui évalue la capacité à concevoir, développer et documenter une application informatique.
+> Ce projet a été développé **en équipe durant la 2ème année de BTS SIO (Services Informatiques aux Organisations), option SLAM**, en réponse à un projet fil rouge simulant un contexte professionnel réel. Il sera présenté lors de l'**épreuve E6** qui évalue la capacité à concevoir, développer et documenter une application informatique.

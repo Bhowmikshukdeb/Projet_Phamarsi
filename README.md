@@ -119,7 +119,7 @@ maConnexion.OpenConnexion();
  
 **1. Cloner le repository**
 ```bash
-git clone https://github.com/TON_USERNAME/projet-pharmasI.git
+git clone https://github.com/Bhowmikshukdeb/projet-pharmasI.git
 ```
  
 **2. Restaurer les packages NuGet**
